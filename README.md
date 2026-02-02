@@ -1,6 +1,5 @@
 #  About Me:
-I’m currently working on<br>Real-world web development projects and sharpening my DSA skills.<br><br>I’m looking to collaborate on<br>Open-source projects, hackathons, and beginner-friendly full-stack apps.<br><br>I’m looking for help with<br>Advanced DSA, system design basics, and open-source contributions.<br><br> I’m currently learning<br>Java, full-stack development, databases, and problem-solving patterns.<br><br>Ask me about<br>Web development, Java basics, projects, or how to stay consistent while learning.<br>
-
+I’m currently working on<br>Real-world web development projects and sharpening my DSA skills.<br><br>I’m looking to collaborate on<br>Open-source projects, hackathons, and beginner-friendly full-stack apps.<br><br>I’m looking for help with<br>Advanced DSA, system design basics, and open-source contributions.<br><br> I’m currently learning<br>Java, full-stack development, databases, and problem-solving patterns.<br>
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yazhnii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yazhnii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaazz.ky@gmail.com) 
