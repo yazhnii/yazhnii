@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Yazhini%20Sankar&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Welcome%20to%20Yazhini's%20GitHub&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/yazhnii" target="_blank">
