@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Yazhini%20(Yazz)&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Yazhini Sankar%20&fontSize=40&fontColor=ffffff"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/yazhnii" target="_blank">
@@ -21,17 +21,17 @@
 <br/>
 
 <p>
-Hello there! <em><b> I'm Yazhini (Yazz) </b></em>, an Engineering student passionate about building real-world web applications and solving problems through code.  
+Hello there! <em><b> I'm Yazhini </b></em>, an Engineering student passionate about building real-world web applications and solving problems through code.  
 I enjoy working on full-stack projects and constantly improving my skills in DSA and system design.
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/laptop.png" width="15"/> <em><b> Engineering Student </b></em> <br/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/laptop.png" width="15"/> <em><b> B.E CSE Student </b></em> <br/>
 <img src="https://img.icons8.com/ios-filled/50/ffffff/source-code.png" width="15"/> <em><b> Building Real-World Projects </b></em><br/>
 <img src="https://img.icons8.com/ios-filled/50/ffffff/brain.png" width="15"/> <em><b> Learning DSA & System Design </b></em><br/>
-<img src="https://img.icons8.com/ios-filled/50/ffffff/goal.png" width="15"/> <em><b> Aspiring Startup Intern </b></em><br/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/goal.png" width="15"/> <em><b> Aspiring Software Dev </b></em><br/>
 </p>
 
 <br/>
